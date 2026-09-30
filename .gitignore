@@ -1,0 +1,10 @@
+*.o
+*.so
+*.out
+mt2
+mt2_*
+!mt2_*.cpp
+!mt2_*.c
+!mt2_*.h
+!Mt2.java
+.DS_Store
